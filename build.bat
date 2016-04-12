@@ -1,3 +1,3 @@
 @echo off
-copy /b /y .\src\shortnumbers.js .\shortnumbers.js
+copy /b /y .\src\config.js + .\src\replace.js .\shortnumbers.js
 
